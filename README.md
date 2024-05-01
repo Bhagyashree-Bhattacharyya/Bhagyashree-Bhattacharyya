@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Bhagyashree, 
-# a result-driven Junior Software Developer with a passion for innovation and collaborative problem-solving. I'm proficient in React, Java, and database architecture, and I thrive in dynamic team environments where I can drive impactful solutions. With a background in Fibre Science and extensive coursework in machine learning and full-stack development, I bring a unique blend of technical expertise and creativity to every project.
+##### a result-driven Junior Software Developer with a passion for innovation and collaborative problem-solving. I'm proficient in React, Java, and database architecture, and I thrive in dynamic team environments where I can drive impactful solutions. With a background in Fibre Science and extensive coursework in machine learning and full-stack development, I bring a unique blend of technical expertise and creativity to every project.
 - 🌱 I’m currently learning ... **MERN stack** & **Java**
 - 💻 Programming Languages I know ... *Python*, *Java*, *JavaScript*
 - 🌐 Web Technologies I'm interested in ... *MongoDB*, *ExpressJS*, *ReactJS*, *NodeJS*, *Django*, *Postman*, *SpringBoot*
