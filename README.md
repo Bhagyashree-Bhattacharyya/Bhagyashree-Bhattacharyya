@@ -1,14 +1,35 @@
-### Hi there 👋 I'm Bhagyashree, 
-##### a result-driven Junior Software Developer with a passion for innovation and collaborative problem-solving. I'm proficient in React, Java, and database architecture, and I thrive in dynamic team environments where I can drive impactful solutions. With a background in Fibre Science and extensive coursework in machine learning and full-stack development, I bring a unique blend of technical expertise and creativity to every project.
-- 🌱 I’m currently learning ... **Java** **SpringBoot** & **MERN stack** 
-- 💻 Programming Languages I know ... *Java*, *JavaScript*, *Python*
-- 🌐 Web Technologies I'm interested in ... *SpringBoot*, *MySQL*, *MongoDB*, *ExpressJS*, *ReactJS*, *NodeJS*, *Postman*
-- 📊 I bit of Data Analysis & Machine Learning with ... *Pandas*, *NumPy*, *Plotly*, *Scikit-learn*
-- 🛠️ AdditionalLy ... *SQL*, *ORM*, *Agile Methodologies*, *IntelliJ IDEA*
+### Hi there 👋 I'm Bhagyashree,
 
-- I'm demonstrating my works here 👇
-- Check out my LeetCode solutions and coding journey [Link](https://leetcode.com/u/bhagyashree-bhattacharyya/).
-- 🧠 I believe in continuous practice and improvement, and LeetCode is a great platform for honing coding skills and problem-solving abilities.
+<p align="center">
+  🚀 Exploring AI/ML | 📊 Data Science Enthusiast | 🧠 Passionate about Mathematics
+</p>
+
+---
+
+### **🔍 About Me**
+- 💡 Transitioning into **AI/ML** 🚀  
+- 📚 Currently building **hands-on ML projects**  
+- 🔥 Focused on **Machine Learning, Deep Learning, and Open Source**  
+- 📌 Planning to contribute to **open-source AI/ML projects**  
+
+---
+
+### **🛠️ Tech Stack**
+🚀 **Languages & Tools:**  
+- 🐍 Python | 📊 Pandas | 🔢 NumPy | 📈 Matplotlib | 🤖 scikit-learn  
+- 🌎 Flask | 🛠️ Git & GitHub  
+- 🔬 Exploring Deep Learning (TensorFlow)
+**🔹 Web Development**  
+- 🌐 JavaScript (ES6+) | ⚡ React.js | 🛠️ Node.js | 🌍 Express.js  
+- 🔵 MongoDB | MySQL | REST APIs  
+
+---
+<!--
+### **📢 Let's Connect!**
+💼 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)  
+🌐 **GitHub Portfolio:** [Your GitHub](https://github.com/your-username)  
+
+-->
 
 
 <!--
