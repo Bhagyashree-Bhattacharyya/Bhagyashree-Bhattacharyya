@@ -6,7 +6,7 @@
 
 ---
 
-## **🔍 About Me**
+#### **🔍 About Me**
 - 💡 Transitioning into **AI/ML** 🚀  
 - 📚 Currently building **hands-on ML projects**  
 - 🔥 Focused on **Machine Learning, Deep Learning, and Open Source**  
@@ -14,7 +14,7 @@
 
 ---
 
-## **🛠️ Tech Stack**
+#### **🛠️ Tech Stack**
 🚀 **Languages & Tools:**  
 - 🐍 Python | 📊 Pandas | 🔢 NumPy | 📈 Matplotlib | 🤖 scikit-learn  
 - 🌎 Flask | 🛠️ Git & GitHub  
